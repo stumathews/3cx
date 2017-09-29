@@ -1,0 +1,7 @@
+C:\3CX\3xapi\TestAPI\bin\3cxpscomcpp2.dll
+C:\3CX\3xapi\TestAPI\bin\sl.dll
+C:\3CX\3xapi\TestAPI\obj\Debug\ResolveAssemblyReference.cache
+C:\3CX\3xapi\TestAPI\bin\orule_importer.exe
+C:\3CX\3xapi\TestAPI\bin\orule_importer.pdb
+C:\3CX\3xapi\TestAPI\obj\Debug\orule_importer.exe
+C:\3CX\3xapi\TestAPI\obj\Debug\orule_importer.pdb
